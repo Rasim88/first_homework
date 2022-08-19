@@ -14,7 +14,7 @@ int NumberSecond = Convert.ToInt32(Console.ReadLine());
     {
         Console.WriteLine("The numbers are equal!");
     }
-    
+
 // Задача 2
 Console.WriteLine("Enter three numbers:");
 int Number1 = Convert.ToInt32(Console.ReadLine());
@@ -35,6 +35,18 @@ int Number3 = Convert.ToInt32(Console.ReadLine());
     else if (Number1 == Number2 && Number1 == Number3)
     {
         Console.WriteLine("The three numbers are equal!");
+    }
+
+// Задача 3
+Console.WriteLine("Enter one numbers:");
+int NumberOne = Convert.ToInt32(Console.ReadLine());
+    if (NumberOne % 2 == 0)
+    {
+        Console.WriteLine("An even Number: " + NumberOne);
+    }
+    else
+    {
+        Console.WriteLine("Odd Number: " + NumberOne);
     }
 
 // Задача 4
