@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\o384x\\Desktop\\GB\\SeminarC1\\first_homework\\first_homework.csproj": {}
+    "C:\\Users\\o384x\\Desktop\\GB\\SeminarC2\\2_homework\\first_homework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\o384x\\Desktop\\GB\\SeminarC1\\first_homework\\first_homework.csproj": {
+    "C:\\Users\\o384x\\Desktop\\GB\\SeminarC2\\2_homework\\first_homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\o384x\\Desktop\\GB\\SeminarC1\\first_homework\\first_homework.csproj",
+        "projectUniqueName": "C:\\Users\\o384x\\Desktop\\GB\\SeminarC2\\2_homework\\first_homework.csproj",
         "projectName": "first_homework",
-        "projectPath": "C:\\Users\\o384x\\Desktop\\GB\\SeminarC1\\first_homework\\first_homework.csproj",
+        "projectPath": "C:\\Users\\o384x\\Desktop\\GB\\SeminarC2\\2_homework\\first_homework.csproj",
         "packagesPath": "C:\\Users\\o384x\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\o384x\\Desktop\\GB\\SeminarC1\\first_homework\\obj\\",
+        "outputPath": "C:\\Users\\o384x\\Desktop\\GB\\SeminarC2\\2_homework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\o384x\\AppData\\Roaming\\NuGet\\NuGet.Config"
